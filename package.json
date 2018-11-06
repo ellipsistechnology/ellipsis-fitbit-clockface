@@ -1,0 +1,22 @@
+{
+  "fitbit": {
+    "appUUID": "37900ac4-2c8c-4a3a-a391-7ecb8bac64ae",
+    "appType": "clockface",
+    "appDisplayName": "Ellipsis Face",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Ellipsis Face"
+      }
+    }
+  }
+}
