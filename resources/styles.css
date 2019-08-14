@@ -7,8 +7,9 @@
 }
 
 #time {
-  font-size: 85;
+  font-size: 80;
   font-family: System-Bold;
+  letter-spacing: -5;
   text-length: 50;
   text-anchor: middle;
   x: 50%;
@@ -17,8 +18,9 @@
 }
 
 #date {
-  font-size: 32;
+  font-size: 34;
   font-family: System-Bold;
+  letter-spacing: 1;
   text-length: 32;
   text-anchor: middle;
   x: 50%;

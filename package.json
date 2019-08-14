@@ -10,13 +10,17 @@
       "access_heart_rate"
     ],
     "buildTargets": [
-      "higgs",
-      "meson"
+      "meson",
+      "gemini"
     ],
     "i18n": {
       "en": {
         "name": "Ellipsis Face"
       }
-    }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
   }
 }

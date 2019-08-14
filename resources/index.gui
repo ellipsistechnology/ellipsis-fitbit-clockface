@@ -1,9 +1,9 @@
 <svg viewport-fill="black">
   <image x="0" y="0" width="300" height="300" href="ellipsis-clock.png" load="sync" />
   
-  <text x="112" y="100" id="time">TIME</text>
+  <text x="120" y="110" id="time">TIME</text>
   <line x1="30" y1="139" x2="75%-30" y2="139" stroke-width="2" id="divider"/>
-  <text x="112" y="195" id="date">DATE</text>
+  <text x="112" y="185" id="date">DATE</text>
   
   <text x="233" y="70" fill="white" class="stat" id="heart">BPM</text>
   <text x="233" y="143" fill="white" class="stat" id="distance">M</text>
